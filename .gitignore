@@ -1,0 +1,9 @@
+# JetBrains IDE
+.idea/
+
+# 기타 무시할 파일 및 디렉토리
+/shelf/
+/.idea/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
